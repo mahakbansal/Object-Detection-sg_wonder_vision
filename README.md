@@ -1,2 +1,13 @@
 # Object-Detection-60daysofudacity
-This a a repository for a group project undertaken by five Udacity Facebook Scholars for the Secure and Private AI course( under the #60DaysOfUdacity pledge)
+
+##Group members:
+1. Helena Barmer 
+2. Mahak Bansal
+3. Seerat K. Jaura
+4. Shashi Gharti
+5. Shereen ElSayed
+
+##ToDo:
+- [ ] Finalise a date/time for **Virtual Meetups**.
+- [ ] Finalise Dataset to be used.
+- [ ] Discuss various approaches for the project.
