@@ -19,6 +19,7 @@ GCP(Google Cloud Platform):https://cloud.google.com/free/  ($300 free credit to 
 ## Getting Started
 - Google collab(https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
 - GCP 
+    - Register for GCP https://cloud.google.com/free/
     - 
 
 ##Datasets to get started (Open to suggestions)
