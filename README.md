@@ -1,7 +1,7 @@
 # Object-Detection-60daysofudacity
 ## Project Domain - Open to discussion
     - Real time object detection 
-        - self driving cars
+        - self driving cars (https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
 
 ## Group members:
 1. Helena Barmer 
