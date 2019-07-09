@@ -1,5 +1,5 @@
 # Object-Detection-60daysofudacity
-# Project Domain - Open to discussion
+## Project Domain - Open to discussion
     - Real time object detection (self driving cars)
 
 ## Group members:
@@ -18,7 +18,7 @@
 Google Collab: https://colab.research.google.com/
 GCP(Google Cloud Platform):https://cloud.google.com/free/  ($300 free credit to get started with any GCP product.)
 
-# Resources
+## Resources
  - Papers with code (https://paperswithcode.com/sota/real-time-object-detection-on-coco)
 
 ## Datasets (Open to suggestions)
