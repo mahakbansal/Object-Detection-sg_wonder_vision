@@ -23,6 +23,7 @@ GCP(Google Cloud Platform):https://cloud.google.com/free/  ($300 free credit to 
  - Papers with code (https://paperswithcode.com/sota/real-time-object-detection-on-coco)
 
 ## Algorithms used for object detection and localization
+Video Lecture: https://deeplearning.mit.edu/ (48:10)
    - Region Based 
         - R-CNN, Faster R-CNN
    - Single Shot Method(SSD) 
