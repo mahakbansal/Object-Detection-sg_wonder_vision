@@ -1,4 +1,6 @@
 # Object-Detection-60daysofudacity
+# Project Domain - Open to discussion
+    - Real time object detection (self driving cars, )
 
 ## Group members:
 1. Helena Barmer 
@@ -25,7 +27,8 @@ GCP(Google Cloud Platform):https://cloud.google.com/free/  ($300 free credit to 
 - VOT Challenge Dataset (http://www.votchallenge.net/vot2018/dataset.html)
 - OPPORTUNITY Activity Recognition Data Set (https://archive.ics.uci.edu/ml/datasets/opportunity+activity+recognition)
 - Huge resource of datasets from various individuals, organizations and conferences (https://www.visualdata.io/)
-- Yahoo Flickr Creative Commons 100M[unsupervised] (https://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67) 
+- Yahoo Flickr Creative Commons 100M (https://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67) 
+- Caltech 101 (http://www.vision.caltech.edu/Image_Datasets/Caltech101/)
 
 ## Getting Started
 - Google collab(https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
