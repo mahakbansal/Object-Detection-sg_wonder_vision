@@ -21,6 +21,7 @@ GCP(Google Cloud Platform):https://cloud.google.com/free/  ($300 free credit to 
 
 ## Resources
  - Papers with code (https://paperswithcode.com/sota/real-time-object-detection-on-coco)
+ - https://sergioskar.github.io/Semantic_Segmentation/
 
 ## Algorithms used for object detection and localization
 Video Lecture: https://deeplearning.mit.edu/ (48:10)
