@@ -16,10 +16,15 @@
 Google Collab: https://colab.research.google.com/
 GCP(Google Cloud Platform):https://cloud.google.com/free/  ($300 free credit to get started with any GCP product.)
 
+### Datasets (Open to suggestions)
+- VOT Challenge Dataset (http://www.votchallenge.net/vot2018/dataset.html)
+- OPPORTUNITY Activity Recognition Data Set (https://archive.ics.uci.edu/ml/datasets/opportunity+activity+recognition)
+- 
+
 ## Getting Started
 - Google collab(https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
 - GCP 
     - Register for GCP https://cloud.google.com/free/
     - https://medium.com/google-cloud/how-to-run-deep-learning-models-on-google-cloud-platform-in-6-steps-4950a57acfa5
 
-### Datasets (Open to suggestions)
+
