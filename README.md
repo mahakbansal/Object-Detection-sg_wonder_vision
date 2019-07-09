@@ -20,6 +20,6 @@ GCP(Google Cloud Platform):https://cloud.google.com/free/  ($300 free credit to 
 - Google collab(https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
 - GCP 
     - Register for GCP https://cloud.google.com/free/
-    - 
+    - https://medium.com/google-cloud/how-to-run-deep-learning-models-on-google-cloud-platform-in-6-steps-4950a57acfa5
 
-###Datasets (Open to suggestions)
+### Datasets (Open to suggestions)
