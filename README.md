@@ -22,6 +22,13 @@ GCP(Google Cloud Platform):https://cloud.google.com/free/  ($300 free credit to 
 ## Resources
  - Papers with code (https://paperswithcode.com/sota/real-time-object-detection-on-coco)
 
+## Algorithms used for object detection and localization
+   - Region Based 
+        - R-CNN, Faster R-CNN
+   - Single Shot Method(SSD) 
+        - YOLO (https://pjreddie.com/darknet/yolo/)
+   - Semantic Segmentation
+
 ## Datasets (Open to suggestions)
 - COCO Dataset (http://cocodataset.org)
 - Open Images Dataset 
