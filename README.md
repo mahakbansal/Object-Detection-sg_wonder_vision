@@ -12,7 +12,7 @@
 - [ ] Finalise Dataset to be used.
 - [ ] Discuss various approaches for the project.
 
-##Free Cloud Platform
+## Free Cloud Platform
 Google Collab: https://colab.research.google.com/
 GCP(Google Cloud Platform):https://cloud.google.com/free/  ($300 free credit to get started with any GCP product.)
 
