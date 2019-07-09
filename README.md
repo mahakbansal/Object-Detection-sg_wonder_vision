@@ -19,7 +19,7 @@ GCP(Google Cloud Platform):https://cloud.google.com/free/  ($300 free credit to 
 ### Datasets (Open to suggestions)
 - VOT Challenge Dataset (http://www.votchallenge.net/vot2018/dataset.html)
 - OPPORTUNITY Activity Recognition Data Set (https://archive.ics.uci.edu/ml/datasets/opportunity+activity+recognition)
-- 
+- Huge resource of datasets from various individuals, organizations and conferences (https://www.visualdata.io/)
 
 ## Getting Started
 - Google collab(https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
