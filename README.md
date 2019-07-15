@@ -2,6 +2,13 @@
 ## Project Domain - Open to discussion
     - Real time object detection 
         - self driving cars (https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
+    - Visual Relationship Detection Tracking
+    - Lane Detection
+    - [Medical Imaging] Medical Imaging
+    
+## Kaggle Competitions
+1. https://www.kaggle.com/c/google-ai-open-images-object-detection-track
+2. https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation
 
 ## Group members:
 1. Helena Barmer 
@@ -22,6 +29,7 @@ GCP(Google Cloud Platform):https://cloud.google.com/free/  ($300 free credit to 
 ## Resources
  - Papers with code (https://paperswithcode.com/sota/real-time-object-detection-on-coco)
  - https://sergioskar.github.io/Semantic_Segmentation/
+ - Papers with code https://paperswithcode.com/task/lane-detection/latest (lane detection)
 
 ## Algorithms used for object detection and localization
 Video Lecture: https://deeplearning.mit.edu/ (48:10)
@@ -42,6 +50,9 @@ Video Lecture: https://deeplearning.mit.edu/ (48:10)
 - Huge resource of datasets from various individuals, organizations and conferences (https://www.visualdata.io/)
 - Yahoo Flickr Creative Commons 100M (https://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67) 
 - Caltech 101 (http://www.vision.caltech.edu/Image_Datasets/Caltech101/)
+
+    ## Lane Detection
+    - CULane Dataset https://xingangpan.github.io/projects/CULane.html
 
 ## Getting Started
 - Google collab(https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
