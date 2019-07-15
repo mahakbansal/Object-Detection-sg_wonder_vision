@@ -4,11 +4,11 @@
         - self driving cars (https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
     - Visual Relationship Detection Tracking
     - Lane Detection
-    - [Medical Imaging] Medical Imaging
-    
+    - Medical Imaging
+
 ## Kaggle Competitions
-1. https://www.kaggle.com/c/google-ai-open-images-object-detection-track
-2. https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation
+1. [Visual Relationship Detection Tracking] https://www.kaggle.com/c/google-ai-open-images-object-detection-track
+2. [Medical Imaging] https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation
 
 ## Group members:
 1. Helena Barmer 
