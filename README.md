@@ -1,5 +1,5 @@
 # Object-Detection-60daysofudacity
-## Project Domain - Open to discussion
+## Project Groups
     - Face detection
     - Lane detection
     - Crowd density/People counter
@@ -11,14 +11,14 @@
 1. [Visual Relationship Detection Tracking] https://www.kaggle.com/c/google-ai-open-images-object-detection-track
 2. [Medical Imaging] https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation
 
-## Organisers:
+## Organisers
 1. Helena Barmer 
 2. Mahak Bansal
 3. Seerat K. Jaura
 4. Shashi Gharti
 5. Joyce Obi
 
-## ToDo:
+## ToDo
 - [x] Finalise a date/time for **Virtual Meetups**.
 - [X] Finalise Dataset to be used.
 - [ ] Discuss various approaches for the project.
@@ -62,5 +62,14 @@ Video Lecture: https://deeplearning.mit.edu/ (48:10)
 - GCP 
     - Register for GCP https://cloud.google.com/free/
     - https://medium.com/google-cloud/how-to-run-deep-learning-models-on-google-cloud-platform-in-6-steps-4950a57acfa5
+    
+## Meetups
+Virtual meetups every Monday and Thursday at the following timings:
+- IST: 7:00 PM
+- GMT: 1:30 PM
+- PDT: 6:30 AM
+- EDT: 9:30 AM
+
+Log-in details are posted in the Slack channel #sg_wonder_vision
 
 
