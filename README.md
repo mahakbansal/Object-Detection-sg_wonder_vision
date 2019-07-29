@@ -1,16 +1,17 @@
 # Object-Detection-60daysofudacity
 ## Project Domain - Open to discussion
-    - Real time object detection 
-        - self driving cars (https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
-    - Visual Relationship Detection Tracking
-    - Lane Detection
-    - Medical Imaging
-
+    - Face detection
+    - Lane detection
+    - Crowd density/People counter
+    - Vehicle detection
+    - Video badge tracking (follow me drone)
+         
+    
 ## Kaggle Competitions
 1. [Visual Relationship Detection Tracking] https://www.kaggle.com/c/google-ai-open-images-object-detection-track
 2. [Medical Imaging] https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation
 
-## Group members:
+## Organisers:
 1. Helena Barmer 
 2. Mahak Bansal
 3. Seerat K. Jaura
@@ -30,6 +31,8 @@ GCP(Google Cloud Platform):https://cloud.google.com/free/  ($300 free credit to 
  - Papers with code (https://paperswithcode.com/sota/real-time-object-detection-on-coco)
  - https://sergioskar.github.io/Semantic_Segmentation/
  - Papers with code https://paperswithcode.com/task/lane-detection/latest (lane detection)
+ - Self driving cars (https://www.youtube.com/watch?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&v=O5xeyoRL95U)
+ 
 
 ## Algorithms used for object detection and localization
 Video Lecture: https://deeplearning.mit.edu/ (48:10)
